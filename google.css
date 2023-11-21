@@ -1,0 +1,38 @@
+header{text-align: center;}
+
+.container {
+
+    padding: 2px;
+    height: 75px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+.button {
+    padding: 2px 20px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+.card {
+    text-align: center;
+    width: 33%;
+    height: 83px;
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 30px;
+    background-color: aqua;
+}
+
+
+
+.input{
+    margin: auto;
+    width: 280px;
+    height: 40%;
+    background-color: white;
+    border: 1px solid black;
+    text-align: start;
+}
+
